@@ -8,4 +8,4 @@ I am an okie 🤠 living in Kansas 🌻
 I have a passion for language :speech_balloon: and I speak Spanish :dancer:
 I love mathematics, data science, and developing video games!
 
-Connect with me on [LinkedIn!](/https://www.linkedin.com/in/christi-lee-1aaa36187/)
+Connect with me on [LinkedIn!](/https:///www.linkedin.com/in/christi-lee-1aaa36187/)

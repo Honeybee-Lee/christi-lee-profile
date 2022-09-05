@@ -16,7 +16,7 @@ I love mathematics, data science, and developing video games!
 Connect with me on [LinkedIn!](https://www.linkedin.com/in/christi-lee-1aaa36187/)
 
 
-
+### More photos of me
 ![IMG_1365](https://user-images.githubusercontent.com/67603279/188347507-e703066d-ab0d-4fcd-8e52-4d2977d6ea29.jpg)
 
 ![IMG_1346](https://user-images.githubusercontent.com/67603279/188347749-67247477-b670-47fb-b369-2e2b350bfbb8.jpg)
